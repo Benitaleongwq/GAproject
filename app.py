@@ -35,6 +35,15 @@ model.fit(X_train, y_train)
 # Generate prediction based on user selected attributes
 y_pred = model.predict([[sepal_length, sepal_width, petal_length, petal_width]])
 
+
+import streamlit as st
+import numpy as np
+
+with st.chat_message("user"):
+    st.write("Hello 👋")
+    st.line_chart(np.random.randn(30, 3))
+
+
 # Display EDA
 st.subheader('Exploratory Data Analysis')
 st.write('The data is grouped by the class and the variable mean is computed for each class.')
