@@ -6,7 +6,7 @@ import streamlit as st
 import requests
 import pandas as pd
 import numpy as np
-from streamlit_tags import st_tags  # to add labels on the fly!
+from streamlit_tags import st_tags   
 
 
 ############ 2. SETTING UP THE PAGE LAYOUT AND TITLE ############
