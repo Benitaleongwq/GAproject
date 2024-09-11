@@ -17,7 +17,7 @@ Potential risks or challenges
 • Complex Terms: Credit card agreements can be complex, with varying terms for interest rates, fees, and rewards. Understanding these terms is important to avoid unexpected costs.
 • Fees: There can be various fees, such as annual fees, late payment fees, foreign transaction fees, and cash advance fees, which can add up and impact your finances.
 • Fraud Risk: Although credit cards offer fraud protection, they can still be targets for theft and misuse. It’s crucial to monitor your account regularly and report any suspicious activity promptly.
-Data source: https://www.moneysmart.sg/credit-cards/no-annual-fee https://seedly .sg/community/credit-cards/
+Data source: https://www.moneysmart.sg/credit-cards/no-annual-fee https://seedly.sg/community/credit-cards/
    
  Benefits and Impact:
 • Building Credit History: Responsible use—such as paying off the balance on time—helps build a positive credit history and improve your credit score, which can be advantageous for future financial endeavours.
