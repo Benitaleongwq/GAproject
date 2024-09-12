@@ -1,4 +1,5 @@
-Credit Card
+Capstone Project : Credit Card Recommender
+Project Objectives:Credit Card
 If the thought of spending thousands of dollars in just a couple of months makes you blanch, you need a card with miles that don’t expire so you can take your time to slowly accumulate them.
 
 
